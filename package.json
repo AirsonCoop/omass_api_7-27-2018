@@ -1,0 +1,11 @@
+{
+  "name": "omass_api_7-27-018", 
+  "version": "0.0.1",
+  "description": "oMass API beta version",
+  "main": "omass_api.js",
+  "keywords": [],
+  "repository" : {
+  "type" : "git",
+  "url" : "https://github.com/AirsonCoop/omass_api_7-27-2018.git"
+  }
+}
